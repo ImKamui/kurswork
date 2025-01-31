@@ -3,4 +3,7 @@
     <string name="meet_dialog">Привет! Давай познакомимся! Как тебя зовут?</string>
     <string name="name_edit">Напиши своё имя!</string>
     <string name="meeting">Познакомиться</string>
+    <string name="play">Играть</string>
+    <string name="exit">Выйти</string>
+    <string name="accept">Решил</string>
 </resources>
